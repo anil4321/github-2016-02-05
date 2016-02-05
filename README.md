@@ -1,7 +1,7 @@
 # GitHub Training — February 5, 2016
 
-## Instructors
-- Allen Smith (@loranallensmith)
+## Student - Anil
+- Anil @myorg.com
 
 
 ### Resources
